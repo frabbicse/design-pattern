@@ -1,0 +1,9 @@
+F:\Repo\DesignPattern\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.deps.json
+F:\Repo\DesignPattern\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.dll
+F:\Repo\DesignPattern\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.pdb
+F:\Repo\DesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.csprojAssemblyReference.cache
+F:\Repo\DesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.AssemblyInfoInputs.cache
+F:\Repo\DesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.AssemblyInfo.cs
+F:\Repo\DesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+F:\Repo\DesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.dll
+F:\Repo\DesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.pdb

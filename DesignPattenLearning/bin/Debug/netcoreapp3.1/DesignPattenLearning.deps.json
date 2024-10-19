@@ -1,0 +1,124 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DesignPattenLearning/1.0.0": {
+        "dependencies": {
+          "AbstractFactoryDesignPattern": "1.0.0",
+          "Adapter-Design-Pattern": "1.0.0",
+          "BuilderDesignPattern": "1.0.0",
+          "DecoratorDesignPattern": "1.0.0",
+          "FacadeDesignPattern": "1.0.0",
+          "FactoryDesignPattern": "1.0.0",
+          "FactoryMethodDesignPattern": "1.0.0",
+          "FluentInterfaceDesignPattern": "1.0.0",
+          "SingletonDesignPattern": "1.0.0"
+        },
+        "runtime": {
+          "DesignPattenLearning.dll": {}
+        }
+      },
+      "AbstractFactoryDesignPattern/1.0.0": {
+        "runtime": {
+          "AbstractFactoryDesignPattern.dll": {}
+        }
+      },
+      "Adapter-Design-Pattern/1.0.0": {
+        "runtime": {
+          "Adapter-Design-Pattern.dll": {}
+        }
+      },
+      "BuilderDesignPattern/1.0.0": {
+        "runtime": {
+          "BuilderDesignPattern.dll": {}
+        }
+      },
+      "DecoratorDesignPattern/1.0.0": {
+        "runtime": {
+          "DecoratorDesignPattern.dll": {}
+        }
+      },
+      "FacadeDesignPattern/1.0.0": {
+        "runtime": {
+          "FacadeDesignPattern.dll": {}
+        }
+      },
+      "FactoryDesignPattern/1.0.0": {
+        "runtime": {
+          "FactoryDesignPattern.dll": {}
+        }
+      },
+      "FactoryMethodDesignPattern/1.0.0": {
+        "runtime": {
+          "FactoryMethodDesignPattern.dll": {}
+        }
+      },
+      "FluentInterfaceDesignPattern/1.0.0": {
+        "runtime": {
+          "FluentInterfaceDesignPattern.dll": {}
+        }
+      },
+      "SingletonDesignPattern/1.0.0": {
+        "runtime": {
+          "SingletonDesignPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPattenLearning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractFactoryDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Adapter-Design-Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuilderDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecoratorDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FacadeDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryMethodDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentInterfaceDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingletonDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
