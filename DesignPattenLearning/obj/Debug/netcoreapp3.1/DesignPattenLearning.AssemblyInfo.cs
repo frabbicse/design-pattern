@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesignPattenLearning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+616caffb28ca0fecb90d3562a444a832b1151aaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesignPattenLearning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesignPattenLearning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
