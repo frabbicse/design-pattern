@@ -1,9 +1,0 @@
-F:\Repo\DesignPattern\FactoryMethodDesignPattern\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattern.deps.json
-F:\Repo\DesignPattern\FactoryMethodDesignPattern\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattern.dll
-F:\Repo\DesignPattern\FactoryMethodDesignPattern\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattern.pdb
-F:\Repo\DesignPattern\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.csprojAssemblyReference.cache
-F:\Repo\DesignPattern\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.AssemblyInfoInputs.cache
-F:\Repo\DesignPattern\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.AssemblyInfo.cs
-F:\Repo\DesignPattern\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.csproj.CoreCompileInputs.cache
-F:\Repo\DesignPattern\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.dll
-F:\Repo\DesignPattern\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.pdb

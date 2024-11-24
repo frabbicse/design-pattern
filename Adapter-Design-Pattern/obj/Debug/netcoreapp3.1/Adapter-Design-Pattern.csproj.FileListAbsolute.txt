@@ -1,9 +1,0 @@
-F:\Repo\DesignPattern\Adapter-Design-Pattern\bin\Debug\netcoreapp3.1\Adapter-Design-Pattern.deps.json
-F:\Repo\DesignPattern\Adapter-Design-Pattern\bin\Debug\netcoreapp3.1\Adapter-Design-Pattern.dll
-F:\Repo\DesignPattern\Adapter-Design-Pattern\bin\Debug\netcoreapp3.1\Adapter-Design-Pattern.pdb
-F:\Repo\DesignPattern\Adapter-Design-Pattern\obj\Debug\netcoreapp3.1\Adapter-Design-Pattern.csprojAssemblyReference.cache
-F:\Repo\DesignPattern\Adapter-Design-Pattern\obj\Debug\netcoreapp3.1\Adapter-Design-Pattern.AssemblyInfoInputs.cache
-F:\Repo\DesignPattern\Adapter-Design-Pattern\obj\Debug\netcoreapp3.1\Adapter-Design-Pattern.AssemblyInfo.cs
-F:\Repo\DesignPattern\Adapter-Design-Pattern\obj\Debug\netcoreapp3.1\Adapter-Design-Pattern.csproj.CoreCompileInputs.cache
-F:\Repo\DesignPattern\Adapter-Design-Pattern\obj\Debug\netcoreapp3.1\Adapter-Design-Pattern.dll
-F:\Repo\DesignPattern\Adapter-Design-Pattern\obj\Debug\netcoreapp3.1\Adapter-Design-Pattern.pdb

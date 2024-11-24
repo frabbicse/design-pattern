@@ -1,9 +1,0 @@
-F:\Repo\DesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.deps.json
-F:\Repo\DesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.dll
-F:\Repo\DesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
-F:\Repo\DesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csprojAssemblyReference.cache
-F:\Repo\DesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfoInputs.cache
-F:\Repo\DesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfo.cs
-F:\Repo\DesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csproj.CoreCompileInputs.cache
-F:\Repo\DesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.dll
-F:\Repo\DesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
